@@ -35,3 +35,4 @@
   <img src="https://github.com/saefulnurdin/Aplikasi-Pengembangan-Akademik/blob/main/demo/database.png"
     alt="Database" width="100%">
 </p>
+#html #css #JavaScript #PHP #MySql
